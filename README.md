@@ -1,4 +1,4 @@
-# A uthentication Microservice
+# Authentication Microservice
 authentication-service is an authentication microservice with jwt
 ## Keep it simple
 The login and registration services are cumbersome and difficult, and they create a huge load on the servers.
